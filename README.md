@@ -1,2 +1,2 @@
 # SleepMode
-SleepMode application
+SleepMode ios & android application
